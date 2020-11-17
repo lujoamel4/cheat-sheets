@@ -7,3 +7,8 @@ git branch -d localBranchName
 ```
 git push origin --delete remoteBranchName
 ```
+
+### show staged changes
+```
+git diff --cached
+```
