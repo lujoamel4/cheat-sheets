@@ -12,3 +12,4 @@ How I fixed the problem:
         sudo chown -R username:username .
         Alternatively: sudo chown -R username:username /home/username/path/to/project
 
+Link https://stackoverflow.com/questions/49932671/mvn-clean-install-don%C2%B4t-work-without-sudo
