@@ -1,6 +1,5 @@
 # FAQ
 ## mvn clean install don´t work without sudo 
-For Linux Users
 What caused the problem:
 
     sudo mvn clean install on base pom.xml - linking all sub-projects to the root user
