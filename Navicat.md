@@ -1,0 +1,12 @@
+# Shortcuts
+- ctrl + q to open the query window  
+- ctrl + / sql statements Notes  
+- ctrl + shift + / lift comment  
+- sql statement ctrl + r to run a query window  
+- ctrl + shift + r to run only selected sql statement  
+- F6 to open a mysql command-line window  
+- ctrl + d (1): See table structure details, including index triggers, stored procedures, foreign keys, unique keys; (2): Copy line  
+- ctrl + l delete a row  
+- ctrl + n to open a new query window  
+- ctrl + w a query window Close  
+- ctrl + tab multi-window switch   
