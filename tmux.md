@@ -1,3 +1,6 @@
+# TMUX
+Tmux is also a Terminal multiplexer that allows us to create number of terminal sessions and run more than one programs or processes at the same time inside a single Terminal window.
+
 #### Split panes horizontally
 To split a pane horizontally, press Ctrl+b and " (single quotation mark).
 
