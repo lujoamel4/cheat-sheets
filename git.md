@@ -17,3 +17,10 @@ git diff --cached
 ```
 git config --global credential.helper 'cache --timeout=3600'
 ```
+
+### See last commit of each file in a directory
+```
+git ls-tree -r --name-only HEAD | while read filename; do
+  echo "$(git log -1 --format="%H %ad" -- $filename) $filename"
+done
+```
